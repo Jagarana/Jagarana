@@ -14,7 +14,7 @@ Experienced maker and data structure enthusiast with a passion for crafting inno
 
 ## 🌱 Learning & Growth
 
-I believe in continuous learning, and I'm always exploring new technologies and frameworks to stay ahead in the ever-evolving tech ecosystem. Currently, I am diving deep into [Current Technology/Topic] to enhance my skills and contribute to cutting-edge projects.
+I believe in continuous learning, and I'm always exploring new technologies and frameworks to stay ahead in the ever-evolving tech ecosystem. Currently, I am diving deep into vierualization and SDN to enhance my skills and contribute to cutting-edge projects.
 
 ## 📫 Let's Connect
 
