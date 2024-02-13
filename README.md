@@ -6,11 +6,12 @@ Experienced maker and data structure enthusiast with a passion for crafting inno
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, Java
-- **Frameworks:** Flask, Spring Boot, React
+- **Languages:** Python, JavaScript, Java, PHP
+- **Frameworks:** Flask, Laravel, React
 - **Databases:** MongoDB, PostgreSQL, MySQL
-- **DevOps:** Docker, GitLab CI, Jenkins
-- **Version Control:** Git, GitHub Actions
+- **DevOps:** Docker, Jenkins
+- **System Administration:** Linux, Windows, MacOS
+- **Version Control:** Git
 
 ## 🌱 Learning & Growth
 
@@ -18,7 +19,7 @@ I believe in continuous learning, and I'm always exploring new technologies and 
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Jagarana LinkedIn Profile](https://www.linkedin.com/in/jagarana)
+- LinkedIn: [Jagarana LinkedIn Profile](https://www.linkedin.com/in/lars-erhardt-540119285/)
 - Twitter: [@JagaranaCoder](https://twitter.com/JagaranaCoder)
 - Portfolio: [Jagarana.dev](https://www.jagarana.dev)
 
